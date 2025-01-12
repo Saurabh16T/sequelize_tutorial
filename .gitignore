@@ -1,0 +1,5 @@
+node_modules
+.env
+.env.save
+.eslintrc.js
+public
